@@ -1,0 +1,29 @@
+---
+title: "Exercise 1"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 1. Finding the optimal number of interviews for hiring
+
+This is a randomly (R) assigned group as there is no particular criteria to select a particular group
+
+Lengthy hiring process and loss in reputation : $$O_1$$
+
+Study to determine optimal interviews which gave a result of 4 interviews:
+$$X$$
+Reputation and Speed of hiring after the study:
+$$O_2$$. 
+
+
+## Threats to inference
+
+Currently Google hires mostly engineers for whom this result is valid. This may not be the ideal result for other groups hired by Google.
+
+
+## 2. Managerial Problem
+1. I believe that the expert and the data was possibly measuring success on different parameters causing for the results to differ. 
+2. Another reason for the differing results could be that the outlook could be different for both. ie A could be better in the short term but detrimental in the long term causing for the results to differ
